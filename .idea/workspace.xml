@@ -2,158 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1878627d-2746-4479-a910-2494782ee263" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/css/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/img/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/partials/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/img/phones/dell-streak-7.0.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/img/phones/dell-streak-7.1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/img/phones/dell-streak-7.2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/img/phones/dell-streak-7.3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/img/phones/dell-streak-7.4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/img/phones/dell-venue.0.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/img/phones/dell-venue.1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/img/phones/dell-venue.2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/img/phones/dell-venue.3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/img/phones/dell-venue.4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/img/phones/dell-venue.5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/img/phones/droid-2-global-by-motorola.0.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/img/phones/droid-2-global-by-motorola.1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/img/phones/droid-2-global-by-motorola.2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/img/phones/droid-pro-by-motorola.0.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/img/phones/droid-pro-by-motorola.1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/img/glyphicons-halflings-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/img/glyphicons-halflings.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/img/phones/lg-axis.0.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/img/phones/lg-axis.1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/img/phones/lg-axis.2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/img/phones/motorola-atrix-4g.0.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/img/phones/motorola-atrix-4g.1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/img/phones/motorola-atrix-4g.2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/img/phones/motorola-atrix-4g.3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/img/phones/motorola-bravo-with-motoblur.0.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/img/phones/motorola-bravo-with-motoblur.1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/img/phones/motorola-bravo-with-motoblur.2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/img/phones/motorola-charm-with-motoblur.0.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/img/phones/motorola-charm-with-motoblur.1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/img/phones/motorola-charm-with-motoblur.2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/img/phones/motorola-defy-with-motoblur.0.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/img/phones/motorola-defy-with-motoblur.1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/img/phones/motorola-defy-with-motoblur.2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/img/phones/motorola-xoom-with-wi-fi.0.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/img/phones/motorola-xoom-with-wi-fi.1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/img/phones/motorola-xoom-with-wi-fi.2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/img/phones/motorola-xoom-with-wi-fi.3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/img/phones/motorola-xoom-with-wi-fi.4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/img/phones/motorola-xoom-with-wi-fi.5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/img/phones/motorola-xoom.0.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/img/phones/motorola-xoom.1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/img/phones/motorola-xoom.2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/img/phones/nexus-s.0.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/img/phones/nexus-s.1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/img/phones/nexus-s.2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/img/phones/nexus-s.3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/img/phones/samsung-galaxy-tab.0.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/img/phones/samsung-galaxy-tab.1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/img/phones/samsung-galaxy-tab.2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/img/phones/samsung-galaxy-tab.3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/img/phones/samsung-galaxy-tab.4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/img/phones/samsung-galaxy-tab.5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/img/phones/samsung-galaxy-tab.6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/img/phones/samsung-gem.0.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/img/phones/samsung-gem.1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/img/phones/samsung-gem.2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/img/phones/samsung-mesmerize-a-galaxy-s-phone.0.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/img/phones/samsung-mesmerize-a-galaxy-s-phone.1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/img/phones/samsung-mesmerize-a-galaxy-s-phone.2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/img/phones/samsung-mesmerize-a-galaxy-s-phone.3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/img/phones/samsung-showcase-a-galaxy-s-phone.0.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/img/phones/samsung-showcase-a-galaxy-s-phone.1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/img/phones/samsung-showcase-a-galaxy-s-phone.2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/img/phones/samsung-transform.0.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/img/phones/samsung-transform.1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/img/phones/samsung-transform.2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/img/phones/samsung-transform.3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/img/phones/samsung-transform.4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/img/phones/sanyo-zio.0.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/img/phones/sanyo-zio.1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/img/phones/sanyo-zio.2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/img/phones/t-mobile-g2.0.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/img/phones/t-mobile-g2.1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/img/phones/t-mobile-g2.2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/img/phones/t-mobile-mytouch-4g.0.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/img/phones/t-mobile-mytouch-4g.1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/img/phones/t-mobile-mytouch-4g.2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/img/phones/t-mobile-mytouch-4g.3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/img/phones/t-mobile-mytouch-4g.4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/img/phones/t-mobile-mytouch-4g.5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/.bowerrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/.bowerrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/.jshintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/scripts/private/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/scripts/private/old/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/test/e2e/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/scripts/private/old/ScrapeData.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/css/animations.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/js/animations.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/css/app.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/js/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/js/controllers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/test/unit/controllersSpec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/phones/dell-streak-7.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/phones/dell-venue.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/js/directives.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/test/unit/directivesSpec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/phones/droid-2-global-by-motorola.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/phones/droid-pro-by-motorola.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/js/filters.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/test/unit/filtersSpec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/scripts/private/old/format-json.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/scripts/private/old/goto_step.bat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/scripts/private/old/goto_step.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/test/karma.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/phones/lg-axis.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/phones/motorola-atrix-4g.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/phones/motorola-bravo-with-motoblur.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/phones/motorola-charm-with-motoblur.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/phones/motorola-defy-with-motoblur.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/phones/motorola-xoom-with-wi-fi.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/phones/motorola-xoom.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/phones/nexus-s.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/partials/phone-detail.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/partials/phone-list.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/phones/phones.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/test/protractor-conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/scripts/private/push-to-github.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/scripts/private/retag.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/phones/samsung-galaxy-tab.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/phones/samsung-gem.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/phones/samsung-mesmerize-a-galaxy-s-phone.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/phones/samsung-showcase-a-galaxy-s-phone.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/phones/samsung-transform.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/phones/sanyo-zio.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/test/e2e/scenarios.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/js/services.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/test/unit/servicesSpec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/scripts/private/old/snapshot.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/phones/t-mobile-g2.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/app/phones/t-mobile-mytouch-4g.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/scripts/private/test-all.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/scripts/private/update-gh-pages.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/scripts/update-repo.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-interface/user-interface.iml" />
-      <change type="DELETED" beforePath="E:\Other Projects\ServiceAppDemo\service\target\maven-archiver\pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="E:\Other Projects\ServiceAppDemo\service\target\service-1.0-SNAPSHOT.jar" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_bind_jaxb_impl_2_2_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_ws_rs_javax_ws_rs_api_2_0_m10.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_bundle_jaxrs_2_7_17.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_geronimo_specs_geronimo_javamail_1_4_spec_1_7_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_geronimo_specs_geronimo_servlet_3_0_spec_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ws_xmlschema_xmlschema_core_2_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_woodstox_stax2_api_3_1_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_woodstox_woodstox_core_asl_4_4_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_continuation_8_1_15_v20140411.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_http_8_1_15_v20140411.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_8_1_15_v20140411.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_security_8_1_15_v20140411.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_server_8_1_15_v20140411.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_8_1_15_v20140411.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__wsdl4j_wsdl4j_1_6_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/parent/parent.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/parent/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/interface/interface.iml" afterPath="$PROJECT_DIR$/interface/interface.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/interface/pom.xml" afterPath="$PROJECT_DIR$/interface/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/service/pom.xml" afterPath="$PROJECT_DIR$/service/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user-interface/pom.xml" afterPath="$PROJECT_DIR$/user-interface/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ServiceAppDemo.iws" />
@@ -163,6 +40,7 @@
     <ignored path="$PROJECT_DIR$/service/target/" />
     <ignored path="$PROJECT_DIR$/interface/target/" />
     <ignored path="$PROJECT_DIR$/user-interface/target/" />
+    <ignored path="$PROJECT_DIR$/parent/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -180,61 +58,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ParentContract.wadl" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/interface/src/main/java/ParentContract.wadl">
+      <file leaf-file-name="Bookstore.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/interface/target/generated/src/main/java/application/Bookstore.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="3" column="45" selection-start-line="3" selection-start-column="45" selection-end-line="3" selection-end-column="45" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ParentServiceSchema.xsd" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/interface/src/main/java/ParentServiceSchema.xsd">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+              <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+        <entry file="file://$PROJECT_DIR$/interface/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6181818">
-              <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/user-interface/app/js/app.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/user-interface/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="73" column="10" selection-start-line="73" selection-start-column="10" selection-end-line="73" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/service/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="12" column="10" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="10" />
+            <state vertical-scroll-proportion="1.122078">
+              <caret line="46" column="25" selection-start-line="46" selection-start-column="25" selection-end-line="46" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -257,8 +95,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/user-interface/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/parent/pom.xml" />
+        <option value="$PROJECT_DIR$/user-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/service/pom.xml" />
+        <option value="$PROJECT_DIR$/interface/pom.xml" />
       </list>
     </option>
   </component>
@@ -281,8 +122,14 @@
           <option name="myItemId" value="" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
         </PATH_ELEMENT>
+      </PATH>
+      <PATH>
         <PATH_ELEMENT>
-          <option name="myItemId" value="user-interface" />
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="ServiceAppDemo" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
         </PATH_ELEMENT>
       </PATH>
@@ -292,18 +139,12 @@
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
         </PATH_ELEMENT>
         <PATH_ELEMENT>
-          <option name="myItemId" value="user-interface" />
+          <option name="myItemId" value="ServiceAppDemo" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
         </PATH_ELEMENT>
         <PATH_ELEMENT>
           <option name="myItemId" value="Lifecycle" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
-        </PATH_ELEMENT>
-      </PATH>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
         </PATH_ELEMENT>
       </PATH>
     </treeState>
@@ -316,6 +157,25 @@
     <option name="y" value="-8" />
     <option name="width" value="1382" />
     <option name="height" value="744" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Java</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -351,30 +211,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ServiceAppDemo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ServiceAppDemo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ServiceAppDemo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ServiceAppDemo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="user-interface" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -384,6 +220,9 @@
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="dynamic.classpath" value="false" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -572,6 +411,13 @@
       <option name="number" value="Default" />
       <updated>1442830260762</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added Ui">
+      <created>1442832552363</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1442832552363</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -580,6 +426,7 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32861635" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -613,6 +460,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added Ui" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Ui" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -624,7 +475,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/interface/src/main/java/ParentContract.wadl">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="-1.8888888">
           <caret line="3" column="45" selection-start-line="3" selection-start-column="45" selection-end-line="3" selection-end-column="45" />
           <folding />
         </state>
@@ -638,22 +489,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/service/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="10" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/user-interface/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="73" column="10" selection-start-line="73" selection-start-column="10" selection-end-line="73" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/interface/src/main/java/ParentServiceSchema.xsd">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -662,13 +497,157 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6181818">
-          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/parent/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user-interface/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="54" selection-start-line="8" selection-start-column="54" selection-end-line="8" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface/target/generated/src/main/java/application/Bookstore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.122078">
+          <caret line="46" column="25" selection-start-line="46" selection-start-column="25" selection-end-line="46" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>parent</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>service-1.0-SNAPSHOT</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

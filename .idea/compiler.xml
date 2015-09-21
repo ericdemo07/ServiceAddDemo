@@ -22,12 +22,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
+        <module name="interface" />
         <module name="service" />
         <module name="user-interface" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="interface" target="1.5" />
+      <module name="parent" target="1.5" />
       <module name="service" target="1.5" />
       <module name="ServiceAppDemo" target="1.5" />
       <module name="user-interface" target="1.5" />
