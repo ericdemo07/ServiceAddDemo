@@ -1,0 +1,16 @@
+<application xmlns="http://wadl.dev.java.net/2009/02"
+             xmlns:xs="http://www.w3.org/2001/XMLSchema"
+            xmlns:tns="http://java">
+    <resources base="http://localhost:8080/">
+        <resource path="bookstore" id="Bookstore">
+            <method name="GET" id="getBook">
+                <request>
+                    <representation mediaType="application/xml" element="tns:request"/>
+                </request>
+                <response>
+                    <representation mediaType="application/xml" element="tns:response"/>
+                </response>
+            </method>
+        </resource>
+    </resources>
+</application>
