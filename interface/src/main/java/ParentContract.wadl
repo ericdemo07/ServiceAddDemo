@@ -1,4 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <application xmlns="http://wadl.dev.java.net/2009/02"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
              xmlns:xs="http://www.w3.org/2001/XMLSchema"
             xmlns:tns="http://java">
     <resources base="http://localhost:8080/">
