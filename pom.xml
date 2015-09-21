@@ -12,6 +12,7 @@
     <modules>
         <module>interface</module>
         <module>service</module>
+        <module>user-interface</module>
     </modules>
 
 </project>
