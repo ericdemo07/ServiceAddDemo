@@ -6,7 +6,8 @@
       <module fileurl="file://$PROJECT_DIR$/interface/interface.iml" filepath="$PROJECT_DIR$/interface/interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/parent/parent.iml" filepath="$PROJECT_DIR$/parent/parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/service/service.iml" filepath="$PROJECT_DIR$/service/service.iml" />
-      <module fileurl="file://$PROJECT_DIR$/user-interface/user-interface.iml" filepath="$PROJECT_DIR$/user-interface/user-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-interface-angular/user-interface-angular.iml" filepath="$PROJECT_DIR$/user-interface-angular/user-interface-angular.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-interface-javascript/user-interface-javascript.iml" filepath="$PROJECT_DIR$/user-interface-javascript/user-interface-javascript.iml" />
     </modules>
   </component>
 </project>

@@ -25,6 +25,8 @@
         <module name="interface" />
         <module name="service" />
         <module name="user-interface" />
+        <module name="user-interface-angular" />
+        <module name="user-interface-javascript" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -33,6 +35,8 @@
       <module name="service" target="1.5" />
       <module name="ServiceAppDemo" target="1.5" />
       <module name="user-interface" target="1.5" />
+      <module name="user-interface-angular" target="1.5" />
+      <module name="user-interface-javascript" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

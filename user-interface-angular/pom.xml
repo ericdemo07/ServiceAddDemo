@@ -10,7 +10,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>user-interface</artifactId>
+    <artifactId>user-interface-angular</artifactId>
 
     <build>
         <plugins>
